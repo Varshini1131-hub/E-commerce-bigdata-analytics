@@ -1,0 +1,27 @@
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Data files (large)
+data/
+*.csv
+*.parquet
+*.zip
+
+# Environment files
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Colab-specific
+*.bak
+
